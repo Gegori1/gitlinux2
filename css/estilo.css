@@ -23,3 +23,10 @@
     text-align-last: center;
 }
 
+button {
+    align-self: center;
+    align-items: center;
+    padding: 10px;
+    margin: 20px auto;
+    height: 100px auto;
+}
