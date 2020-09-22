@@ -1,0 +1,25 @@
+* {
+    text-align: left;
+    font-style: Arial;
+    color: #303;
+}
+
+#container {
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border:1px solid #ddd;
+    margin: 0 auto;
+}
+
+#above h2 {
+    margin: 0;
+    border: 10px;
+    /* padding: 0 auto; */
+    color: white;
+    background: #333;
+    height: 30px;
+    font-family: 'Courier New';
+    text-align-last: center;
+}
+
