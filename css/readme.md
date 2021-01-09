@@ -1,1 +1,3 @@
-Here I will wrap, what i not covered on outer folders
+Here I will wrap, what i won't covered on outer folders
+
+$\frac{\delta \phi}{\delta x}$
